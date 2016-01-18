@@ -47,6 +47,7 @@ and <http://builds.archive.org/javadoc/heritrix-3.2.0/>
 See the Heritrix Release Notes at
 <https://webarchive.jira.com/wiki/display/Heritrix/Release+Notes+-+Heritrix+3.2.0>
 
+
 6. License
 -----------
 Heritrix is free software; you can redistribute it and/or modify it
